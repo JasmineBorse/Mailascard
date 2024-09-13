@@ -1,0 +1,19 @@
+/* src/components/GifSelector.css */
+.gif-selector {
+    margin-bottom: 20px;
+  }
+  
+  img {
+    cursor: pointer;
+    width: 100px;
+    height: 100px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    transition: transform 0.2s;
+  }
+  
+  img:hover {
+    transform: scale(1.1);
+    border-color: #f8b400; /* Accent color on hover */
+  }
+  

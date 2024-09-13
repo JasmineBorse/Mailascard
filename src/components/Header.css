@@ -1,0 +1,10 @@
+/* src/components/Header.css */
+header {
+    background-color: #ff6f61; /* A cute color for the header */
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    font-size: 24px;
+    border-bottom: 2px solid #f8b400; /* Accent color */
+  }
+  
